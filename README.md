@@ -76,7 +76,7 @@ src/
 Clone the project
 
 ```bash
-git clone git clone https://github.com/kaungsike/react-shadcn-starter-kit.git
+git clone https://github.com/kaungsike/react-shadcn-starter-kit.git
 ```
 
 Go to the project directory
